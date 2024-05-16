@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Daholli/kickstart-nix-nvim</span>
-                                        <span>created 20 days ago</span>
+                                        <span>created 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -395,7 +395,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2024, 23:05:32 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 May 2024, 00:06:00 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
