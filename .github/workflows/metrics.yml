@@ -22,7 +22,7 @@ jobs:
           template: markdown
           filename: metrics.markdown.md
           markdown: >-
-            https://raw.githubusercontent.com/Daholli/Daholli/.github/templates/profile_template.md
+            https://raw.githubusercontent.com/Daholli/Daholli/master/.github/templates/profile_template.md
           markdown_cache: .cache
           config_output: markdown
           
