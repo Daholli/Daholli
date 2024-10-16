@@ -21,6 +21,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           base_indepth: yes
+          config_padding: 0, 300 + 10%
           config_timezone: Europe/Berlin
           plugin_activity: yes
           plugin_activity_days: 14
