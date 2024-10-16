@@ -28,6 +28,8 @@ jobs:
           user: Daholli
           template: markdown
           filename: metrics.markdown.md
+          markdown: >-
+            https://raw.githubusercontent.com/Daholli/Daholli/.github/templates/profile_template.md
           markdown_cache: .cache
           base: header, activity, repositories, metadata
           config_timezone: Europe/Berlin
