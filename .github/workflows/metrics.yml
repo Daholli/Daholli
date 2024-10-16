@@ -14,23 +14,18 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS }}
 
           # Options
           user: Daholli
+          
           template: markdown
           filename: metrics.markdown.md
           markdown: >-
             https://raw.githubusercontent.com/Daholli/Daholli/.github/templates/profile_template.md
           markdown_cache: .cache
+          config_output: markdown
+          
           base: header, activity, repositories, metadata
           config_timezone: Europe/Berlin
           plugin_languages: yes
