@@ -46,3 +46,6 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_order: pinned
           plugin_repositories_pinned: 2
+
+
+          config_padding: 0, 100%
