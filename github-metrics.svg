@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -188,20 +188,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 7.40mb of code in 2080 edited files across 1193 commits</small>
+                <small>estimation from 7.41mb of code in 2090 edited files across 1197 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.0773400224196" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="251.0773400224196" y="0" width="84.2472018316322" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="335.3245418540518" y="0" width="44.584104919180945" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="379.90864677323276" y="0" width="34.66154581078844" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="414.5701925840212" y="0" width="25.746650857483257" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="440.31684344150443" y="0" width="12.151501713824599" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="452.4683451553291" y="0" width="4.741536979976515" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.2098821353056" y="0" width="2.790117864694452" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.39098823122515" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="251.39098823122515" y="0" width="84.12072448372648" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="335.5117127149516" y="0" width="44.51717237749015" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="380.0288850924418" y="0" width="34.60950965655245" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="414.63839474899424" y="0" width="25.707998320103833" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.34639306909804" y="0" width="12.133259093578197" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="452.47965216267625" y="0" width="4.734418678012934" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.2140708406892" y="0" width="2.7859291593107867" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -213,8 +213,8 @@
                                 Nix
                             </div>
                             <small>
-                                <div>286 kB</div>
-                                <div>54.58%</div>
+                                <div>287 kB</div>
+                                <div>54.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -226,7 +226,7 @@
                             </div>
                             <small>
                                 <div>50.9 kB</div>
-                                <div>9.69%</div>
+                                <div>9.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -238,7 +238,7 @@
                             </div>
                             <small>
                                 <div>29.4 kB</div>
-                                <div>5.6%</div>
+                                <div>5.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -264,7 +264,7 @@
                             </div>
                             <small>
                                 <div>96.2 kB</div>
-                                <div>18.31%</div>
+                                <div>18.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -276,7 +276,7 @@
                             </div>
                             <small>
                                 <div>39.5 kB</div>
-                                <div>7.54%</div>
+                                <div>7.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
