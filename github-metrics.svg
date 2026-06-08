@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -188,19 +188,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 7.79mb of code in 2732 edited files across 1762 commits</small>
+                <small>estimation from 7.82mb of code in 2826 edited files across 1784 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.75113126683937" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="289.75113126683937" y="0" width="88.33525783311296" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="378.0863890999523" y="0" width="36.32083505341733" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="414.4072241533696" y="0" width="26.97917352207391" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="441.3863976754435" y="0" width="12.733208490135194" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.1196061655787" y="0" width="4.968519969925952" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.0881261355047" y="0" width="0.9118738644952725" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="293.3938116976862" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="293.3938116976862" y="0" width="86.41355495727497" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="379.8073666549612" y="0" width="35.530687892621636" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="415.33805454758283" y="0" width="26.392250965702914" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="441.7303055132857" y="0" width="12.509149791252097" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.2394553045378" y="0" width="4.860431542393383" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.0998868469312" y="0" width="0.9001131530687893" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -212,8 +212,8 @@
                                 Nix
                             </div>
                             <small>
-                                <div>315 kB</div>
-                                <div>62.99%</div>
+                                <div>326 kB</div>
+                                <div>63.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -225,7 +225,7 @@
                             </div>
                             <small>
                                 <div>39.5 kB</div>
-                                <div>7.9%</div>
+                                <div>7.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -236,8 +236,8 @@
                                 CSS
                             </div>
                             <small>
-                                <div>13.8 kB</div>
-                                <div>2.77%</div>
+                                <div>13.9 kB</div>
+                                <div>2.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -248,7 +248,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>994 bytes</div>
+                                <div>1 kB</div>
                                 <div>0.2%</div>
                             </small>
                         </div>
@@ -263,7 +263,7 @@
                             </div>
                             <small>
                                 <div>96.2 kB</div>
-                                <div>19.2%</div>
+                                <div>18.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -275,7 +275,7 @@
                             </div>
                             <small>
                                 <div>29.4 kB</div>
-                                <div>5.87%</div>
+                                <div>5.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -287,7 +287,7 @@
                             </div>
                             <small>
                                 <div>5.42 kB</div>
-                                <div>1.08%</div>
+                                <div>1.06%</div>
                             </small>
                         </div>
                     </section>
